@@ -48,7 +48,7 @@ example, combined letters, the average word length, stoppwords.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### Libraries
+### Libraries used
 
 * [Nltk](https://www.nltk.org)
 
@@ -98,10 +98,6 @@ Giray Soylu  - asim.soylu@ruhr-uni-bochum.de
 Project Link: [https://github.com/soylugiray/cl_pruefungsleistung](https://github.com/soylugiray/cl_pruefungsleistung)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
