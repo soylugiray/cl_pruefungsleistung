@@ -12,7 +12,7 @@
 <h3 align="center">Text Language Categorizer</h3>
 
   <p align="center">
-    A language detector of a given text
+    A language detector of a text in five languages
     <br />
   </p>
 </div>
