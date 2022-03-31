@@ -18,7 +18,6 @@
 </div>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -37,11 +36,10 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are two programs in this project to identify the language of a given text as an input. It works in five languages: German, Dutch, English, Polish and Spanish. To differentiate the languages, and two different kind of models are used: Corpus-Based and Lexicon-Based Models. 
+There are two programs in this project to identify the language of a given text as an input. It works in five languages: German, Dutch, English, Polish and Spanish. Two different kinds of models are used to differentiate the languages: Corpus-Based and Lexicon-Based Models. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -51,7 +49,6 @@ There are two programs in this project to identify the language of a given text 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -87,4 +84,3 @@ Giray Soylu  - asim.soylu@ruhr-uni-bochum.de
 Project Link: [https://github.com/soylugiray/cl_pruefungsleistung](https://github.com/soylugiray/cl_pruefungsleistung)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
