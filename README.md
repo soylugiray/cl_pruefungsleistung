@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a program to identify the language of a given text as an input. It works in five languages: German, Dutch, English, Polish and Spanish. To differentiate the languages, two different kind of models are used: Corpus-Based and Lexicon-Based Models. 
+There are two programs in this project to identify the language of a given text as an input. It works in five languages: German, Dutch, English, Polish and Spanish. To differentiate the languages, and two different kind of models are used: Corpus-Based and Lexicon-Based Models. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -57,7 +57,10 @@ This is a program to identify the language of a given text as an input. It works
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Please put the file "resource" as the same path with the progarams files. Then, please kindly enter the text that you want to learn the language of it in the program and enjoy the results!
+- First, please put the file "resource" as the same path with the programs files (There are two seperate programs.)
+- Second, please choose program (corpus-based or lexicon-based program) you want to test your text.
+- Then, please kindly enter the text, that you want to learn the language of it, in the program.
+- Enjoy the results!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
